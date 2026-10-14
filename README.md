@@ -1,10 +1,14 @@
 # CSV TO MP3 FILE CONVERTER ⚡
+## How does it work
+##  it searches for the best matches on youtube and converts it using yt-dlp and ffmpeg
+
 
 ---
 ## To use this tool you also need to have
 ## - [yt-dlp](https://github.com/yt-dlp/yt-dlp) 
 ## - [ffmpeg](https://ffmpeg.org/download.html)
 ## - python
+
 
 ## TUTORIAL
 ### - Download things above
