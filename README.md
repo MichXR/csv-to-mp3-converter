@@ -12,5 +12,5 @@
 <img width="785" height="251" alt="obraz" src="https://github.com/user-attachments/assets/16664e77-7239-4c24-9b2f-2ff1d1c2ba0c" />
 
 
-### - You can save your playlists as a .csv file for example on [this site](https://exportify.net/)
+### - You can save your playlists as a .csv with tool like [this](https://exportify.net/)
 ### - Use the converter!
