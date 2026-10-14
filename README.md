@@ -1,7 +1,7 @@
 # CSV TO MP3 FILE CONVERTER ⚡
 
 ---
-## To use this tool you also need to install 
+## To use this tool you also need to have
 ## - [yt-dlp](https://github.com/yt-dlp/yt-dlp) 
 ## - [ffmpeg](https://ffmpeg.org/download.html)
 ## - python
